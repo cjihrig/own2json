@@ -3,8 +3,8 @@
 [![Current Version](https://img.shields.io/npm/v/own2json.svg)](https://www.npmjs.org/package/own2json)
 [![Build Status via Travis CI](https://travis-ci.org/continuationlabs/own2json.svg?branch=master)](https://travis-ci.org/continuationlabs/own2json)
 ![Dependencies](http://img.shields.io/david/continuationlabs/own2json.svg)
+[![belly-button-style](https://img.shields.io/badge/eslint-bellybutton-4B32C3.svg)](https://github.com/continuationlabs/belly-button)
 
-[![belly-button-style](https://cdn.rawgit.com/continuationlabs/belly-button/master/badge.svg)](https://github.com/continuationlabs/belly-button)
 
 Stringify objects' own properties.
 
